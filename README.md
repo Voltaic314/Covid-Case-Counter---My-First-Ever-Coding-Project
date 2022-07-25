@@ -40,4 +40,24 @@ So I applied to UA. Now unfortunately I didn't know I wanted to do AI yet so whe
 
 Now I was actually thinking of applying to other colleges when ... guess what... I found out my school had just recently launched a whole new program. Applied Computing (which is basically CS I mean come on) and they have a concentration in AI! Fantastic! 
 
-I basically learned that no matter what field I jumped around in, I never stopped caring about AI. I have been fascinated with AI ever since I was a child. I legitimately mean that. 
+I basically learned that no matter what field I jumped around in, I never stopped caring about AI. I have been fascinated with AI ever since I was a child. I legitimately mean that. So I reached out to my academic advisor, they directed me to what would be my advisor if I switched majors, I had an interview with them and submitted an application to jump aboard and they accepted me in! I was so excited. Finally I feel like I am where I belong and I can't get enough of AI content and I finally found out where I wanted to be. Not just because I respected the field or because it sounded cool. It was something I legitimately was interested in! This was like with 10th major change but so far it's my last! 
+
+--------
+
+So now let's talk about coding. As you can imagine I hadn't coded anything since my previous VB class back from 2017 or whenever and I still had bad memories of it. But I decided to give it another go. 
+
+Now, I spend a lot of time on FaceBook and there is one page I always thought would be really easy to automate. There was a page on Facebook I followed called "daily updates on teh status of Michael Jackson's Health Condition" and every day the page would just post "He's Dead." and it was hilarious to me. Pure Gen Z humor. Great stuff. But I thought... this would be so easy for a computer program to automate ya know... 
+
+But I thought just ripping off that page idea with another celebrity would be too easy (I eventually did it anyways with the betty white bot but oh well haha) -- so I thought... what is something people might want to see daily updates on on FB that would be really useful maybe? 
+
+So I thought -- hmm -- how about Covid Cases? Now unfortunately I can't make a page that just shares covid cases for everyone's communities, that would be too out of hand and too big of an idea, so let's keep it simple and just create the covid case counter for the entire global cases. At least that is something to start with. 
+
+And so I did. I found this amazing tutorial on YouTube by Skolo Online on how to create a FB posting script on Python and it has helped me tremendously. In fact I still go back to it from time to time to figure out things sometimes haha. So I credit most of this project to that. Then some other great tutorials out there that taught me how to use BeautifulSoup and the Requests library. 
+
+Without amazing tutorials on YouTube, I never would have started my journey to programming. In fact I almost gave up making the FB bot until I stumbled upon these tutorials. I think if I would have gave up, life would have probably turned out a lot differently for me. I may have even given up on programming altogether and went back into ECE or something. (which nearly all STEM fields require at least some programming but still not as much as an AI or SWE position anyways). 
+
+So that is the story of how I stumbled my way through life making various dumb decisions and mistakes along the way to find my true path. 
+
+I should say now, I am still attending the University of Arizona and currently as of writing this have a 3.5 GPA and still going up! I also have written some pretty damn good Python scripts in the past 6 months of learning Python (it will literally be 6 months as of 07/26/2022, tomorrow as of writing this) in comparison to many people who just started 6 months ago, I have made pretty rapid progress and I attribute that to the great YT tutorials out there that I was able to use as well as starting projects with clear goals in mind. Instead of making basic calculator apps or whatever, I designed projects that I personally wanted to see in this world -- my drive and passion is what fueled my education further than anything else I think. 
+
+Anyways, that's my story. I hope I will continue to grow and blossom even further beyond this point. But I hope you all enjoyed it as of right now. 
