@@ -40,7 +40,7 @@ So I applied to UA. Now unfortunately I didn't know I wanted to do AI yet so whe
 
 Now I was actually thinking of applying to other colleges when ... guess what... I found out my school had just recently launched a whole new program. Applied Computing (which is basically CS I mean come on) and they have a concentration in AI! Fantastic! 
 
-I basically learned that no matter what field I jumped around in, I never stopped caring about AI. I have been fascinated with AI ever since I was a child. I legitimately mean that. So I reached out to my academic advisor, they directed me to what would be my advisor if I switched majors, I had an interview with them and submitted an application to jump aboard and they accepted me in! I was so excited. Finally I feel like I am where I belong and I can't get enough of AI content and I finally found out where I wanted to be. Not just because I respected the field or because it sounded cool. It was something I legitimately was interested in! This was like with 10th major change but so far it's my last! 
+I basically learned that no matter what field I jumped around in, I never stopped caring about AI. I have been fascinated with AI ever since I was a child. I legitimately mean that. So I reached out to my academic advisor, they directed me to what would be my advisor if I switched majors, I had an interview with them and submitted an application to jump aboard and they accepted me in! I was so excited. Finally I feel like I am where I belong and I can't get enough of AI content and I finally found out where I wanted to be. Not just because I respected the field or because it sounded cool. It was something I legitimately was interested in! This was like my 10th major change but so far it's my last! 
 
 --------
 
