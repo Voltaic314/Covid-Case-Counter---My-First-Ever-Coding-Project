@@ -46,7 +46,7 @@ I basically learned that no matter what field I jumped around in, I never stoppe
 
 So now let's talk about coding. As you can imagine I hadn't coded anything since my previous VB class back from 2017 or whenever and I still had bad memories of it. But I decided to give it another go. 
 
-Now, I spend a lot of time on FaceBook and there is one page I always thought would be really easy to automate. There was a page on Facebook I followed called "daily updates on teh status of Michael Jackson's Health Condition" and every day the page would just post "He's Dead." and it was hilarious to me. Pure Gen Z humor. Great stuff. But I thought... this would be so easy for a computer program to automate ya know... 
+Now, I spend a lot of time on Facebook and there is one page I always thought would be really easy to automate. There was a page on Facebook I followed called "daily updates on the status of Michael Jackson's Health Condition" and every day the page would just post "He's Dead." and it was hilarious to me. Pure Gen Z humor. Great stuff. But I thought... this would be so easy for a computer program to automate ya know... 
 
 But I thought just ripping off that page idea with another celebrity would be too easy (I eventually did it anyways with the betty white bot but oh well haha) -- so I thought... what is something people might want to see daily updates on on FB that would be really useful maybe? 
 
